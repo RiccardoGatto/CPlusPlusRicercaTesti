@@ -13,7 +13,7 @@ int main()
     // ofstream fileOutput("output.txt"); // apertura file in scrittura
     // variabili
     string riga;
-    string parola = "percossa";
+    string parola = "polvere";
     int numeroRigaParolaTrovata = 0;
     // cout << "INIZIO" << endl;
     while (getline(fileInput, riga))
